@@ -35,8 +35,6 @@ O produto reúne site institucional, painel do cliente e painel administrativo e
 
 Na implementação, a Nexizo combina **Node.js**, **JavaScript**, **PostgreSQL**, **Docker**, reverse proxy e interfaces em **HTML/CSS**. O projeto envolve desafios de produto e engenharia como separação entre experiências de cliente e administração, autenticação, permissões, quotas, persistência, empacotamento e integração entre o painel e a infraestrutura de deploy.
 
-> A apresentação acima descreve apenas capacidades públicas do produto e evita detalhes internos de infraestrutura e operação.
-
 ## 🤖 Bots, integrações e automações
 
 Também desenvolvo e trabalho com soluções no ecossistema Discord usando **Node.js** e **discord.js**, com foco em automações e fluxos práticos para comunidades e operações digitais.
