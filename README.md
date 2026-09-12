@@ -19,21 +19,6 @@ Sou Alexandre Louro, também conhecido como **Pixel-Guru**. Atuo na construção
 
 Meu trabalho combina desenvolvimento full stack, UX/UI, integrações e operação de serviços. Gosto especialmente de transformar necessidades reais em experiências claras, sistemas úteis e produtos que possam evoluir com consistência.
 
-## ☁️ Projeto em destaque — Nexizo
-
-**[Nexizo](https://nexizo.cloud)** é uma plataforma de hosting elástico para aplicações e sites. O cliente fornece seu código e as configurações do projeto; a plataforma organiza a camada de hospedagem, storage, deploy e acompanhamento operacional.
-
-O produto reúne site institucional, painel do cliente e painel administrativo em uma experiência integrada. Entre suas capacidades públicas estão:
-
-- gestão de contas, projetos, planos, tickets e equipe;
-- fluxo guiado para criação e configuração de aplicações;
-- deploy conectado a uma camada de infraestrutura baseada em containers;
-- autenticação por Magic Link e Discord para clientes, além de OIDC para a equipe;
-- persistência própria em PostgreSQL;
-- suporte a temas claro, escuro e sistema;
-- catálogo configurável de runtimes, respeitando o que a infraestrutura realmente oferece.
-
-Na implementação, a Nexizo combina **Node.js**, **JavaScript**, **PostgreSQL**, **Docker**, reverse proxy e interfaces em **HTML/CSS**. O projeto envolve desafios de produto e engenharia como separação entre experiências de cliente e administração, autenticação, permissões, quotas, persistência, empacotamento e integração entre o painel e a infraestrutura de deploy.
 
 ## 🤖 Bots, integrações e automações
 
