@@ -77,23 +77,6 @@ Alguns tipos de solução presentes nesse trabalho:
 | Painéis e fluxos guiados | Containers e deploy | APIs e pagamentos |
 | Evolução de produtos digitais | PostgreSQL e serviços Linux | Assistentes com IA |
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pixel-Guru&show_icons=true&hide_border=true&theme=transparent&locale=pt-br" alt="Estatísticas do GitHub de Pixel-Guru" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixel-Guru&layout=compact&hide_border=true&theme=transparent&locale=pt-br" alt="Linguagens mais utilizadas por Pixel-Guru" />
-
-</div>
-
-> Os cards acima refletem somente repositórios públicos contabilizados pelo serviço de estatísticas.
-
-## 📌 Projetos públicos
-
-- **[WordPress Multi-Instance with MySQL Replication](https://github.com/Pixel-Guru/WordPress-Multi-Instance-with-MySQL-Replication)** — stack Docker para múltiplas instâncias WordPress com MySQL, Traefik, isolamento de rede e replicação de banco de dados.
-- **[ScanartTicket](https://github.com/Pixel-Guru/ScanartTicket)** — projeto público desenvolvido em Python.
-- **[izing](https://github.com/Pixel-Guru/izing)** — projeto público com Shell em destaque no GitHub.
-
 ## 📫 Contato
 
 Você pode acompanhar meu trabalho e entrar em contato pelos canais públicos do meu perfil:
