@@ -48,7 +48,9 @@ Alguns tipos de solução presentes nesse trabalho:
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -56,9 +58,12 @@ Alguns tipos de solução presentes nesse trabalho:
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![NGINX](https://img.shields.io/badge/NGINX-20232A?style=for-the-badge&logo=nginx&logoColor=009639)
+![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 ![Discord.js](https://img.shields.io/badge/Discord.js-20232A?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-20232A?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+
+</div>
 
 </div>
 
